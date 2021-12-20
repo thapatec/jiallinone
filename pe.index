@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ENGLISH FACTS</title>
+    <style>
+    .logo{
+     font-family: arial;
+     font-weight: bold;
+     font-size: 50px;
+    }
+
+   .btn{
+   font-size: 50px;
+   }
+
+   .btnn{
+    margin-left: px;
+    margin-top: -50px;
+   }
+
+   .main{
+    font-weight: bold;
+    font-family: arial;
+    font-size: 20px;
+    margin-left: 90px;
+    margin-top: 50px;
+    text-decoration: none;
+    color: yellow;
+   }
+
+
+    </style>
+</head>
+<body bgcolor="GREY">
+<div class="logo">
+  <center><font>
+    AMAZING FACT
+  </font></center>
+</div> 
+
+<div class="btn">
+   <button class="cn"><a href="index.html">Exit</a></button>
+</div>
+
+<div class="btnn">
+   <button class="cn"><a href="ee.html">HINDI FACT</a></button>
+</div>
+
+ <div class="main">
+                          <font><br>ENGLISH
+                          <br>DID YOU KNOW<br>
+                          <br>In 1954, A man arrived at Tokyo airport.He
+                          <br>had Passport issued by a Country named as 
+                          <br>"Taured" which did not exist. He had Visa of
+                          <br>all countries & said his country is 1000 Year
+                          <br>old.Policce locked him in High Secure Room
+                          <br>and he Vanished.Experts said,he came from
+                                       <br>Parllel Univers. 
+                                <br> (THANK YOU FOR VISITING OUR WABSITE)
+                               </font>
+ </div>
+
+</body>
+</html>
